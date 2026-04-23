@@ -1,2 +1,2 @@
-# my-hyprland-dotfiles
-Various dotfiles for my hyprland rice.
+# my-dotfiles
+Various dotfiles for my various machines.
