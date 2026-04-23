@@ -1,1 +1,0 @@
-stow -d ~/Documents/projects/my-hyprland-dotfiles/ -t ~/ dotfiles
